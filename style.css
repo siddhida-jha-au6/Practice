@@ -1,0 +1,28 @@
+#first {
+    width: 82%;
+    height: 500;
+    border:5px brown;
+    padding: 5px;
+    background-color:rgba(42, 151, 165, 0.158);
+    position:absolute ;
+    left:200px;
+    right: 0;
+    top:78px;
+    text-outline: 5px;
+
+}
+#second{
+    width: 13%;
+    height: 200px;
+    border:15px brown;
+    padding: 5px;
+    background-color: yellow;
+    position:absolute ;
+    left:10;
+    right: 200;
+    top:250px;
+    bottom: 0px;
+    
+
+
+}
